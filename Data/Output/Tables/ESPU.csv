@@ -1,0 +1,8 @@
+budget,5000,5000,5000,5000
+,test,sem,train,time
+approach,,,,
+Det,410.4 $\pm$,nan,39.5,9
+Des10,,,,
+Des100,,,,
+SeqDif,558.4 $\pm$,nan,554.8,8
+SeqPreDU,366.2 $\pm$,nan,363.2,9
